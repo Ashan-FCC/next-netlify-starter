@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <img src="/images/cat.jpeg" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vo2XYsk8scwiiaHc6EJEogs383ymXWB25NwFszMz&s" />
       </main>
 
       <Footer />
